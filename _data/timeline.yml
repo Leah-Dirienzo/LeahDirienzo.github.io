@@ -1,0 +1,28 @@
+- title: Burgess Consulting LLC
+  title-url: N/A
+  date: Jan 2022 - Present
+  subtitle: Junior Cloud Data Engineer
+  tags:
+    - tag: Python
+    - tag: Git
+    - tag: Software Testing
+    - tag: Linux
+    - tag: GCP
+    - tag: SQL
+  timeline-side: right
+
+- title: Turbo Tax
+  title-url: https://turbotax.intuit.com/
+  date: 2021 - 2022
+  subtitle: Help Desk Support Specialist
+  tags:
+    - tag: Troubleshooting
+    - tag: Communicating
+    - tag: Problem Solving
+  timeline-side: left
+
+- title: Western Governors University
+  title-url: https://www.wgu.edu/
+  date: Nov 2022
+  subtitle: Bachelor of Science Information Technology
+  timeline-side: left

@@ -1,0 +1,5 @@
+- name: Python
+  weight: 5
+
+- name: SQL
+  weight: 4

@@ -1,0 +1,17 @@
+- name: GitLab
+  weight: 5
+
+- name: Git
+  weight: 5
+
+- name: Ploomber
+  weight: 5
+
+- name: AWS
+  weight: 4
+  
+- name: Azure
+  weight: 4
+
+- name: GCP
+  weight: 4
